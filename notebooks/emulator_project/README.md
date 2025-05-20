@@ -11,7 +11,7 @@ In shell : install poseidon & dependencies
 
 ```
 python -m venv poseidon_env
-source activate poseidon_env
+source poseidon_env/bin/activate
 
 git clone https://github.com/camlab-ethz/poseidon
 cd poseidon
